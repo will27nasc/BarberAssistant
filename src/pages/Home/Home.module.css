@@ -1,0 +1,5 @@
+.fundoHome {
+    background-image: url('/fundo.jpg');
+    background-size: cover;
+    height: calc(100vh - 65.5px);
+}
